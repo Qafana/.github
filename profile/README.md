@@ -74,4 +74,3 @@ We're always brewing new partnerships with:
 ---
 
 *Qafana - Quality Roasted to Perfection* ☕🔥 
-**Let us roast your code** <mcreference link="https://linkedin.com/company/qafana" index="1">1</mcreference>
