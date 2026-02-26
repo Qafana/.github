@@ -1,76 +1,71 @@
-# ☕ Qafana - We Roast Bugs, Not Coffee Beans
+# ☕ Qafana - We Build Solutions, Not Just Code
 
-> **Brewing quality into Web3 & AI solutions, one test at a time**
+> **Bespoke Web Development & Custom Digital Infrastructure for Modern Businesses**
 
 [![Website](https://img.shields.io/badge/Website-qafana.com-blue)](https://qafana.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-company%2Fqafana-0077B5)](https://linkedin.com/company/qafana)
 [![Email](https://img.shields.io/badge/Email-info%40qafana.com-red)](mailto:info@qafana.com)
 
+---
+
 ## ☕ About Us
 
-At Qafana, we don't just test software — we **roast bugs with precision** <mcreference link="https://qafana.com" index="0">0</mcreference>. From sniffing out flaky AI models to dissecting decentralized logic, we bring the heat to quality assurance. Like master baristas crafting the perfect cup, we blend expertise with innovation to deliver quality that's always fresh, never bitter.
+At **Qafana**, we believe the best business deals are made over a good cup of coffee. Based in **Bosnia and Herzegovina**, we are a boutique development agency that transforms complex business challenges into elegant, custom-tailored digital tools.
 
-*We roast bugs. Not coffee beans. (Usually.)* ☕
+We have moved beyond just "testing" to focus on **Solution Architecture**. Whether it's a high-performance booking system for luxury villas or a custom digital menu for a local cafe, we provide a **Full-Package Service**. We handle the code, the domain, the professional email, and the hosting—so you can focus on running your business.
 
-## 🛠️ Our Brewing Menu (Services)
-
-- **🔗 Blockchain QA Testing** - Smart contract auditing, DeFi protocol testing, and blockchain application validation
-- **🤖 AI Model Testing** - ML model validation, AI system quality assurance, and performance optimization  
-- **⚡ Automation Testing** - End-to-end test automation, CI/CD integration, and regression testing
-- **🔒 Security Testing** - Penetration testing, vulnerability assessments, and security audits
-- **📊 Performance Testing** - Load testing, stress testing, and performance optimization
-- **📱 Mobile & Web Testing** - Cross-platform testing, responsive design validation, and user experience testing
-
-## 🔧 Our Coffee Beans (Technologies)
-
-**Testing Frameworks & Tools:**
-- Playwright, Selenium, WebdriverIO
-- Jest, Mocha, Cypress
-- Postman, K6, JMeter
-
-**Blockchain & Web3:**
-- Ethereum, Cardano, Solidity, Web3.js
-- Smart Contract Testing
-- DeFi Protocols
-
-**DevOps & CI/CD:**
-- GitHub Actions, Jenkins, Azure DevOps
-- Docker, Kubernetes, IaaC
-- AWS, Azure, GCP
-
-**Programming Languages:**
-- JavaScript/TypeScript, Python, C#/.NET, etc.
-
-## 🎯 Why Our Brew is Different?
-
-- ✅ **Web3 Expertise** - Deep understanding of blockchain and decentralized technologies
-- ✅ **AI Expertise** - Certified QA specialists in artificial intelligence testing, model validation, and AI system quality assurance
-- ✅ **Comprehensive Testing** - Full-spectrum QA services from functional to security testing
-- ✅ **Modern Tools** - Latest testing frameworks and automation technologies
-- ✅ **Quality Focus** - Rigorous testing methodologies and best practices
-- ✅ **Experienced Team** - Skilled QA engineers with industry expertise
-- ✅ **Fresh Approach** - We keep things hot, bugs get roasted, quality stays smooth ☕
-
-## 📍 Our Coffee Shop Location
-
-🇧🇦 **Brewing from Bosnia and Herzegovina**, serving clients globally
-
-## 📞 Ready for a Quality Espresso?
-
-Let's brew something amazing together. No bugs, just pure quality.
-
-- **Website:** [qafana.com](https://qafana.com)
-- **Email:** [info@qafana.com](mailto:info@qafana.com)
-- **LinkedIn:** [linkedin.com/company/qafana](https://linkedin.com/company/qafana)
-
-## 🤝 Join Our Coffee Club
-
-We're always brewing new partnerships with:
-- **Startups** building innovative Web3 & AI solutions
-- **Enterprises** adopting newest technologies  
-- **Development Teams** needing QA expertise
-- **Open Source Projects** requiring quality assurance
+**Honest work, fair prices, and zero bitter aftertaste.**
 
 ---
 
-*Qafana - Quality Roasted to Perfection* ☕🔥 
+## 🛠️ The Qafana Menu (Our Services)
+
+- **🏗️ Custom Web Applications** – Scalable backends and complex logic (Booking engines, ERPs, and automated workflows).
+- **🎨 Bespoke Web Design** – Modern, high-conversion websites tailored for SMBs and growing enterprises.
+- **📦 The Full Spread (End-to-End)** – We manage your DNS, Professional Emails, Cloudflare security, and 24/7 Hosting.
+- **⚙️ Business Automation** – Digitalizing manual processes to save your business time and money.
+- **🛡️ Quality-First Engineering** – With roots in deep QA and testing, every line of code we write is built for performance and stability.
+
+---
+
+## 🔧 Our Ingredients (Technologies)
+
+**Frontend & Interactive:**
+- React, Next.js, Vite
+- Tailwind CSS & Framer Motion (for premium, smooth UI)
+- GSAP for high-end cinematic animations
+
+**Backend & Infrastructure:**
+- Node.js, TypeScript, C#/.NET
+- **Cloudflare Ecosystem:** Workers, Pages, R2, D1 (Edge-first speed)
+- PostgreSQL, Prisma, Supabase
+
+**The Essentials:**
+- Professional Email Server Setup (Google Workspace/Microsoft 365)
+- Enterprise-grade DNS Management & SSL Security
+- Local & International SEO Optimization
+
+---
+
+## 🎯 Why our "Brew" is Different?
+
+- ✅ **Fair & Transparent Pricing** – No hidden fees. We provide a clear "receipt" for every project.
+- ✅ **The Full Package** – We take care of the tech stack from A to Z (Domain, Mail, Hosting, Dev).
+- ✅ **Bespoke, Not Boring** – No generic templates. We build custom-cooked solutions for your unique problems.
+- ✅ **Rooted in Quality** – Our background in rigorous QA ensures your system doesn't break under pressure.
+- ✅ **Local Heart, Global Reach** – Proudly brewing from **Sarajevo**, serving clients locally and worldwide.
+
+---
+
+## 📍 Visit the Tavern
+
+- **Website:** [qafana.com](https://qafana.com)
+- **LinkedIn:** [linkedin.com/company/qafana](https://linkedin.com/company/qafana)
+- **Email:** [info@qafana.com](mailto:info@qafana.com)
+
+---
+
+### 🤝 Let's Start the Conversation
+The first coffee is on us. Let’s talk about how we can digitalize your business and ease your daily operations.
+
+*Qafana - Solutions Crafted to Perfection* ☕✨
